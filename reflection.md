@@ -23,3 +23,12 @@ Examples:
 
 `--- Reflection Below This Line ---`
 
+I fell like im getting a better understanding on how to use streamlit for file uploads, process text data into JSON. I dont understand tracking session states at all. I struggled with correctly updating st.session_state and handling parsing errors. 
+
+
+
+
+
+
+
+
